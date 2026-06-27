@@ -7,3 +7,4 @@ To understand Linux, we will build a simple operating system.
 3. miniOS-3 : 디스크에서 데이터 로드하기 / Loading data from disk
 4. miniOS-4 : 간단한 쉘 만들기 / Creating a Simple Shell
 5. miniOS-5 : version명령어추가 / Added the 'version' command.
+6. miniOS-6 : 그래픽모드 / Graphic Mode.
