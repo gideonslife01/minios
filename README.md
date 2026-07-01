@@ -9,3 +9,4 @@ To understand Linux, we will build a simple operating system.
 5. miniOS-5 : version명령어추가 / Added the 'version' command.
 6. miniOS-6 : 16비트 그래픽모드 / 16bit Graphic Mode.
 7. miniOS-7 : 32비트 그래픽모드 / 32bit Graphic Mode.
+8. miniOS-8 : 32비트 그래픽모드 + C언어 / 32-bit Graphics Mode + C Language
