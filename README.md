@@ -11,3 +11,5 @@ To understand Linux, we will build a simple operating system.
 7. miniOS-7 : 32비트 그래픽모드 / 32bit Graphic Mode.
 8. miniOS-8 : 32비트 그래픽모드 + C언어 / 32-bit Graphics Mode + C Language
 9. miniOS-9 : 32비트 그래픽모드 + 화면에문자표시 / 32-bit Graphics Mode + Display text on screen
+10.miniOS-9 : 32비트 그래픽모드 + 문자열 전체를 화면에 출력
+              32-bit Graphics Mode + Print the entire string to the screen.
