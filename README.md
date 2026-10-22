@@ -19,6 +19,9 @@ To understand Linux, we will build a simple operating system.
 
 - 텍스트 모드 / Text Mode
 1. miniOS-Text-1 : 32비트 보호모드.C언어함수 호출 / 32-bit protected mode: Calling C functions
-1. miniOS-Text-2 : 
-  키보드에 타이핑한 값을 터미널에 출력
-  Output the values ​​typed on the keyboard to the terminal
+2. miniOS-Text-2 : 
+   키보드에 타이핑한 값을 터미널에 출력
+   Output the values ​​typed on the keyboard to the terminal
+3. miniOS-Text-3 :
+   키보드로 타이핑한 값을 터미널에 출력
+   Output the values typed on the keyboard to the terminal
