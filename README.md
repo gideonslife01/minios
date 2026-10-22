@@ -23,5 +23,4 @@ To understand Linux, we will build a simple operating system.
    키보드에 타이핑한 값을 터미널에 출력
    Output the values ​​typed on the keyboard to the terminal
 3. miniOS-Text-3 :
-   키보드로 타이핑한 값을 터미널에 출력
-   Output the values typed on the keyboard to the terminal
+   커서 + 스크롤 / Cursor + Scroll
